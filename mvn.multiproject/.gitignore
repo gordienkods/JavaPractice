@@ -1,0 +1,9 @@
+/.idea
+/mvn.multiproject.iml
+/web/web.iml
+/web/target
+/dao/dao.iml
+/dao/target
+/core/core.iml
+/core/target
+# Created by .ignore support plugin (hsz.mobi)
